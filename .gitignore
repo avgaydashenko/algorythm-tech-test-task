@@ -1,4 +1,6 @@
-Data/
+Data/pos/
+Data/neg/
+Data/traffic_signs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
